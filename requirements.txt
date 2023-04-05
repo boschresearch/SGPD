@@ -1,0 +1,4 @@
+matplotlib
+numpy
+pytorch 1.10
+scipy
